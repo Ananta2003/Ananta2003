@@ -1,23 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ananta</h1>
-<h3 align="center">Hey there! 👋 I love developing stuff and diving into the world of code. I work with the MERN stack and thrive in agile environments. Always excited to learn new things and take on new challenges! 🚀</h3>
+<h1 align="center">Hi 👋, I'm Ananta Vigave</h1>
+<h3 align="center">Full Stack MERN Developer | Problem Solver | Open Source Contributor 🚀</h3>
 
-- 🌱 I’m currently learning **Database ,MERN Stack**
-
-- 📫 How to reach me **vigaveananta@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anantavigave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anantavigave" height="30" width="40" /></a>
+<p align="center">
+I’m a passionate developer who loves building scalable web applications and experimenting with modern technologies.  
+My core focus is the <b>MERN Stack</b>, and I enjoy turning ideas into real-world products through clean and efficient code.  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate | BSc in Information Technology  
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚡ Passionate about **building scalable web apps**
+- 🌱 Currently exploring **Advanced Databases, Backend Architecture & Cloud**
+- 🚀 Contributor to **Open Source Projects**
+- 🎯 Interested in **Web Development, Backend Systems, and Web3**
+- 📫 Reach me at **vigaveananta@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### ☁️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 MERN Hotel Booking Platform
+Full stack hotel booking system with authentication, booking logic, and MongoDB database integration.
+
+### 🔹 Weather Dashboard
+A real-time weather application built with **React + Node.js** consuming external APIs.
+
+### 🔹 Prompt Save & Reuse Chrome Extension
+Browser extension for **saving, managing, and reusing AI prompts efficiently**.
+
+### 🔹 Character Showdown
+Interactive animated UI project showcasing **React components and Framer Motion animations**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ananta2003&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananta2003&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananta2003&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananta2003&theme=react-dark"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/anantavigave" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="mailto:vigaveananta@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy solving problems, contributing to open source, and constantly learning new technologies in the JavaScript ecosystem.
+
+🚀 *"Code. Learn. Build. Repeat."*
